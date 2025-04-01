@@ -123,4 +123,4 @@ A6: Ensure that your PostgreSQL database is properly set up and that your creden
 ***Email:*** you can reach me at dav2003arm@gmail.com with further questions or comments.
 
 
-[Click Here]() to watch a brief walkthrough of the software!
+[Click Here](https://drive.google.com/file/d/1kdN-UivTTYyWNa08iBTClGncqlRjjZqb/view) to watch a brief walkthrough of the software!
